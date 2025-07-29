@@ -12,7 +12,7 @@
 - 🌱 Learning and building with PyTorch & Django  
 - 🛠️ Love solving real-world problems with AI  
 - 💬 Ask me about: Data Science, Deep Learning, or Career Guidance  
-- 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
+- 📬 Reach me: [LinkedIn](https://www.linkedin.com/in//deepika-shri-929174228) | [Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -31,16 +31,16 @@
 ---
 
 ## 🌱 Latest Projects
-- 🔬 [SwapSniffer](https://github.com/yourusername/SwapSniffer) - AI-based DeepFake Detection Bot  
-- 📈 [Loan Prediction App](https://github.com/yourusername/LoanPredictionApp) - Predict loan approvals using ML  
-- 🖐️ [Hand Gesture Calculator](https://github.com/yourusername/Hand-Gesture-Calculator)
+- 🔬 [SwapSniffer](https://github.com/Deepika2909/DeepFake-Video-Detection) - AI-based DeepFake Detection Bot  
+- 📈 [Sentiment Analysis](https://github.com/Deepika2909/Instagram-post-sentiment-analysis) - Predict Sentiment using NLP  
+- 🖐️ [Hand Gesture Calculator](https://github.com/Deepika2909/Volume-control-using-hand-gesture-using-python-and-openCv)
 
 ---
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in//deepika-shri-929174228)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikashrin@gmail.com)
 
 ---
 
