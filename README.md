@@ -30,14 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----
-
 ## 🌱 Latest Projects
 - 🔬 [SwapSniffer](https://github.com/yourusername/SwapSniffer) - AI-based DeepFake Detection Bot  
 - 📈 [Loan Prediction App](https://github.com/yourusername/LoanPredictionApp) - Predict loan approvals using ML  
